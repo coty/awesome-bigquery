@@ -29,7 +29,7 @@ BigQuery is on [StackOverflow](https://stackoverflow.com/questions/tagged/google
 * 📰 [Stack Overflow in 2023: Predicting with ARIMA and BigQuery](https://towardsdatascience.com/stack-overflow-future-trends-predicting-with-arima-and-bigquery-77d330833329)
 * 📰 [Easy pivot() in BigQuery, in one step](https://towardsdatascience.com/easy-pivot-in-bigquery-one-step-5a1f13c6c710)
 * 📰 [10 top tips: Unleash your BigQuery superpowers](https://towardsdatascience.com/10-top-tips-unleash-your-bigquery-superpowers-c87488621c71)
-* 📰 [New in BigQuery: Persistent UDFs] (https://medium.com/@hoffa/new-in-bigquery-persistent-udfs-c9ea4100fd83)
+* 📰 [New in BigQuery: Persistent UDFs](https://medium.com/@hoffa/new-in-bigquery-persistent-udfs-c9ea4100fd83)
 
 ## Podcast episodes
 
