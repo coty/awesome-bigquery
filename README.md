@@ -5,7 +5,7 @@
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
 
 <p align="center">
-<img src="google-bigquery-hexagon.svg" width="256px">
+<img src="google-bigquery-hexagon.png" width="256px">
 </p>
 
 BigQuery is on [StackOverflow](https://stackoverflow.com/questions/tagged/google-bigquery)
