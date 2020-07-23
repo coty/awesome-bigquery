@@ -16,7 +16,9 @@ BigQuery is on [StackOverflow](https://stackoverflow.com/questions/tagged/google
 
 * 📙 [Official Documentation](https://cloud.google.com/bigquery/docs/)
 
-## Tools
+## Projects/Repos
+
+* [BigQuery Utils](https://github.com/GoogleCloudPlatform/bigquery-utils): This repository provides useful utilities to assist you in migration and usage of BigQuery.
 
 ## Libraries
 
