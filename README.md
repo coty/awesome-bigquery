@@ -20,6 +20,8 @@ BigQuery is on [StackOverflow](https://stackoverflow.com/questions/tagged/google
 
 ## Libraries
 
+* [bigrquery](https://github.com/r-dbi/bigrquery): R library to query BigQuery tables and retrieve metadata about your projects, datasets, tables, and jobs
+
 ## UDFs
 
 ## Public Datasets
