@@ -14,24 +14,6 @@ BigQuery is on [StackOverflow](https://stackoverflow.com/questions/tagged/google
 
 ## Documentation
 
-* 📙 [Official Documentation](https://cloud.google.com/run/docs/)
-
-# Awesome [BigQuery](https://cloud.google.com/bigquery/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A curated list of resources about all things [BigQuery](https://cloud.google.com/bigquery/). Feel free to send Pull Requests!
-
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
-
-<p align="center">
-<img src="google-bigquery-hexagon.svg" width="256px">
-</p>
-
-BigQuery is on [StackOverflow](https://stackoverflow.com/questions/tagged/google-bigquery)
-
-*Legend*: 📙: doc, 📰: article, 📦: sample, 🎬: video, 🖼️: slides, ✏️: interactive tutorial, :headphones: : audio, 🛠️: tool
-
-## Documentation
-
 * 📙 [Official Documentation](https://cloud.google.com/bigquery/docs/)
 
 ## Tools
